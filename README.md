@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zakmins
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning machine learning
 
 <!---
 zakmins/zakmins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
