@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @zakmins
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning machine learning
+Machine learning and Data science enthusiast
 
 <!---
 zakmins/zakmins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
