@@ -57,17 +57,6 @@ export default function App() {
     setModalOpen(true)
   }
 
-  function exportCSV() {
-    const header = ['Candidate Name', 'Match %', 'Skills Matched', 'Missing Skills', 'Summary']
-    const rows = results.map((r) => [
-      r.candidate_name,
-      r.match_score.toFixed(2),
-      r.matched_skills.join('; '),
-      r.missing_skills.join('; '),
-      r.summary,
-    ])
-    const csv = [header, ...rows].map((r) => r.map((s) => `"${(s || '').toString().replace(/"/g, '""')}` + '"').join(','))).join('\n')
-  }
 
   function exportCSVFixed() {
     const header = ['Candidate Name', 'Match %', 'Skills Matched', 'Missing Skills', 'Summary']
