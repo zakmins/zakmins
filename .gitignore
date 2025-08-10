@@ -1,0 +1,14 @@
+# Node
+node_modules
+*.log
+/dist
+
+# Python
+.venv
+__pycache__
+*.pyc
+
+# Editor
+.vscode
+.idea
+.DS_Store
